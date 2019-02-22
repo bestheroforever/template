@@ -3496,3 +3496,13 @@ p.work-time span {
 .slider-caption .flex-control-nav {
     bottom: -80px;
 }
+.divnima{
+  position: relative;
+  overflow: hidden;
+}
+.inputnima {
+  position: absolute;
+  opacity: 0;
+  right: 0;
+  top: 0;
+}
