@@ -2545,8 +2545,7 @@ text-align: right;
 }
 
 ul.pricing-table {
-    width: 100%;
-    margin-bottom: 15px;
+  
     transition: all 0.17s ease-in-out;
     -moz-transition: all 0.17s ease-in-out;
     -webkit-transition: all 0.17s ease-in-out;
